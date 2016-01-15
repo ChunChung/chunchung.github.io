@@ -68,6 +68,16 @@ margin: 0;
 	border-bottom: 1px solid #aaa;
 }
 
+.social {
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+
+}
+
+.social i{
+	color: #fff;
+} 
+
 
 .nav-list {
     margin: 0;
@@ -156,13 +166,13 @@ margin: 0;
     .post-category-data {
         background: #5aba59;
     }
-    .post-category-pure {
+    .post-category-db {
         background: #4d85d1;
     }
-    .post-category-yui {
+    .post-category-language {
         background: #8156a7;
     }
-    .post-category-js {
+    .post-category-soft {
         background: #df2d4f;
     }
 
